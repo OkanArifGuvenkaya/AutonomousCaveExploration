@@ -37,6 +37,6 @@ mission_control_node:
     # Ordered waypoints from takeoff position to cave entrance.
     # The drone flies through these sequentially before starting exploration.
     cave_entrance_waypoints:
-      x: [-38.0, -108.875, -180.0, -251.375, -323.0]
+      x: [-48.0, -108.875, -180.0, -251.375, -323.0]
       y: [10.0, 10.0, 10.0, 10.0, 10.0]
-      z: [15.0, 18.75, 20.0, 18.75, 15.0]
+      z: [20.0, 25.0, 25.0, 20.0, 15.0]

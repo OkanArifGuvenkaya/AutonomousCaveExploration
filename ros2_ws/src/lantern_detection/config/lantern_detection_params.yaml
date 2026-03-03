@@ -6,7 +6,7 @@
 # previously known lanterns (distance_threshold).
 # =============================================================================
 
-detection_node:
+/**:
   ros__parameters:
 
     # ---- Detection thresholds -----------------------------------------------
