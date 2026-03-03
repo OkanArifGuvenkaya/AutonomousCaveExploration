@@ -16,6 +16,16 @@ High-level pipeline:
 
 ---
 
+## Demo video
+
+- Download/view: [Video.mp4](Video.mp4)
+
+If your GitHub view supports HTML video embeds, it should play inline:
+
+<video src="Video.mp4" controls></video>
+
+---
+
 ## Workspace structure
 
 - `ros2_ws/src/`
